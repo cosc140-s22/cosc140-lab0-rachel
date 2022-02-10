@@ -1,0 +1,39 @@
+
+table { width: '100%';
+border: 1px solid black ;
+background-color: lightgoldenrodyellow;
+position: relative; 
+left: 20%;
+}
+th {
+  width: 30%;
+  border: 1px solid black;
+  color: red; 
+}
+td{
+ font-size: 10pt;
+}
+caption {
+  background-color:	blue;
+  color: white;
+}
+
+
+
+
+.button {
+  position: absolute;
+  font-family: "Arial";
+  border-radius: 9px;
+  color: white;
+  background-color: lightpink;
+  padding: 10px;
+  lefT: 50%;
+
+}
+
+
+.circle{
+  position: absolute;
+  
+}
