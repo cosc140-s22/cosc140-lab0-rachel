@@ -22,13 +22,13 @@ caption {
 
 
 .button {
-  position: absolute;
+  position: absolute; 
   font-family: "Arial";
   border-radius: 9px;
   color: white;
   background-color: lightpink;
   padding: 10px;
-  lefT: 50%;
+  left: 50%; 
 
 }
 

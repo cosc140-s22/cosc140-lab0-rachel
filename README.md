@@ -12,5 +12,8 @@ Well, I found it difficult because of course I'm on Zoom and it's hard to get he
 
 ## Feedback
 
-Once you commit and submit your work to Github, I'll update this section with feedback.
+S
+
+We should talk about the position: absolute thing, because for the button you shouldn't have to do that.  I'm not really sure you even need a positioning directive for the button; you can accomplish the look with a padding directive, a border-radius directive, and a background-color.  The padding directive just creates some "space" around the text.   Also important: if you make the tag be a `<span>` instead of `<div>` you can get rid of the positioning; the `<div>` tag will cause the element to consume the full "line", whereas a `<span>` (as an "inline" as opposed to a "block" element) will just be around the text and that's it.  Again, we can talk more about this in person.  
+
 
